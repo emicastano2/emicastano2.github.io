@@ -1,0 +1,60 @@
+body {
+    background-image: url("fondo.png");
+    background-repeat: repeat;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.encabezado {
+    color: yellow;    
+}
+
+
+.contenido {
+    color: beige
+}
+
+h3 {
+    text-align: center;
+}
+
+.listas {
+    color: beige;
+    width: 300px;
+    padding-left: 525px;
+    text-align: left;
+}
+
+a {
+    color: yellow
+}
+
+#emi {
+    width: 10%;
+    height: 10%;
+    border-radius: 50%;
+}
+
+#work_in_progress {
+    width: 10%;
+    height: 10%;
+}
+
+#fb {
+    width: 10%;
+    height: 10%;
+}
+
+#ig {
+    width: 10%;
+    height: 10%;
+}
+
+#in {
+    width: 10%;
+    height: 10%;
+}
+
+hr {
+    border-color: yellow;
+}
